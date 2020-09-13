@@ -28,5 +28,5 @@ class App extends Component {
     );
   }
 }
-
+// when the function is passed into render it will call the function and pass in the current information about the route
 export default App;
